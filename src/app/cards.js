@@ -39,7 +39,7 @@ export default function Cards() {
                         </p>
                         <br />
                         <p>
-                            Estadista português que passou mais tempo no poder, recebeu um doutorado <i>honoris causa</i> da universidade de Oxford em 1940 e foi, durante boa parte do seu governo, elogiado na mídia internacional como o homem que tinha guiado um "povo preguiçoso" para um avanço econômico sem precedentes.
+                            Estadista português que passou mais tempo no poder, recebeu um doutorado <i>honoris causa</i> da universidade de Oxford em 1940 e foi, durante boa parte do seu governo, elogiado na mídia internacional como o homem que tinha guiado um &#34;povo preguiçoso&#34; para um avanço econômico sem precedentes.
                             Católico devoto, promoveu uma nova aproximação entre o governo de Portugal e a igreja católica, que tinham sido afastados na Primeira Republica.
                         </p>
                         <br />
