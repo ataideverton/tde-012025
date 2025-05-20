@@ -215,3 +215,7 @@ ul li:hover ul.dropdown {
 .bookItem {
   margin-top: 5rem;
 }
+
+.referencesContent h1 {
+  font-size: xx-large;
+}
