@@ -7,14 +7,12 @@ export default function Page() {
             <Menu />
 
             <main>
-
                 <div className="textBody">
-                    <div>
-
-                        <div className="textImage">
-                            <Image src="/salazar-isabel.png" width={400} height={400} alt="Salazar e a rainha Elizabeth II" />
-                            <p>Salazar e a Rainha Elizabeth II</p>
-                        </div>
+                    <div className="textImage">
+                        <Image src="/salazar-isabel.png" width={400} height={400} alt="Salazar e a rainha Elizabeth II" />
+                        <p>Salazar e a Rainha Elizabeth II</p>
+                    </div>
+                    <div className="textContent">
                         <p>
                             Desde antes do começo da Segunda Guerra mundial Salazar busca se afastar ideologicamente do Eixo, dizendo que o estado português é muito mais brando que o governo fascista de Mussolini, por exemplo.
                             Parte da argumentação de Salazar estava relacionada a uma grande proximidade que tinha com a igreja católica e a um repúdio declarado ao paganismo de Hitler.
@@ -33,13 +31,13 @@ export default function Page() {
                             adiamento das eleições para se organizar eleitoralmente, o regime nega e então a oposição se abstem de participar nas eleições, resultando na eleição dos elementos propostos pelo Estado Novo.
                             Com a reeleição, o regime usa as listas de apoio ao M.U.D para executar centenas de prisões e demissões. Em 1948 o M.U.D foi então ilegalizado.
                         </p>
-                        <br />
-                        <div className="textImage">
-                            <Image src="/politica1.png" width={500} height={500} alt="foto autografada de mussolini" />
-                            <p>Salazar e sua foto <i>autografada</i> de Mussolini</p>
-                        </div>
-                        <br />
                     </div>
+                    <br />
+                    <div className="textImage">
+                        <Image src="/politica1.png" width={500} height={500} alt="foto autografada de mussolini" />
+                        <p>Salazar e sua foto <i>autografada</i> de Mussolini</p>
+                    </div>
+                    <br />
                 </div>
 
             </main>
